@@ -1,0 +1,52 @@
+h1 {
+    padding: 0 0 5%;
+    text-align: center;
+}
+
+thead {
+    font-size: 1.4rem;
+}
+
+td {
+    font-size: 1.2rem;
+}
+
+form {
+    padding: 0 20%;
+}
+
+.button {
+    padding-top: 3%;
+}
+
+.contain {
+    padding: 5% 20% 2%;
+}
+
+.table-section {
+
+    padding: 0 20%;
+}
+
+.textarea {
+    display: block;
+    width: 100%;
+}
+
+.completed-task {
+    color: #A6A6A6;
+}
+
+.status-complete {
+    color: green;
+    opacity: 0.7;
+}
+
+.status-incomplete {
+    color: red;
+    opacity: 0.9;
+}
+
+.incompleted-task {
+
+}
